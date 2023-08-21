@@ -1,0 +1,1242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word">
+	
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="format-detection" content="email=no">
+	<meta name="x-apple-disable-message-reformatting" />
+	
+	<!-- GLOBAL VARIABLES -->
+	
+	
+	<!-- LOCAL VARIABLES -->
+	
+	<!-- Header Icon Variables -->
+	<meta class="mktoList" id="header-icon" mktoName="Header Icon" values="handshake,add,environment,gear,lightbulb,partnership" mktomodulescope="true">
+	
+	<!-- Header Image Variables -->
+	<meta class="mktoList" id="header-image" mktoName="Header Image" values="automotive,adas,cityscape" mktomodulescope="true">
+	
+	<!-- Hero Pic Left Variables -->
+	<meta class="mktoList" id="hero-pic-left-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="80" mktomodulescope="true">
+	<meta class="mktoList" id="hero-pic-left-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="80" mktomodulescope="true">
+	<meta class="mktoBoolean" id="hero-pic-left-show-paragraph" mktoName="Show Paragraph?" default="true" true_value="display: block;" false_value="display: none;" true_value_name="Yes" false_value_name="No" mktomodulescope="true">
+	<meta class="mktoString" id="hero-pic-left-button-text" mktoName="Button Text" default="Learn More" mktomodulescope="true">
+	<meta class="mktoString" id="hero-pic-left-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Hero No Pic Variables -->
+	<meta class="mktoList" id="hero-no-pic-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoList" id="hero-no-pic-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoString" id="hero-no-pic-button-text" mktoName="Button Text" default="Update My Interests" mktomodulescope="true">
+	<meta class="mktoString" id="hero-no-pic-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Cards Header 1 Variables -->
+	<meta class="mktoList" id="cards-header1-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoList" id="cards-header1-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="20" mktomodulescope="true">
+	
+	<!-- Cards Header 2 Variables -->
+	<meta class="mktoList" id="cards-header2-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoList" id="cards-header2-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="20" mktomodulescope="true">
+	
+	<!-- Cards 3-Across Pic Variables -->
+	<meta class="mktoList" id="cards-3-across-pic-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="0" mktomodulescope="true">
+	<meta class="mktoList" id="cards-3-across-pic-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-pic-button-text1" mktoName="Button Text Card 1" default="Read More" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-pic-button-link1" mktoName="Button URL Card 1" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-pic-button-text2" mktoName="Button Text Card 2" default="Read More" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-pic-button-link2" mktoName="Button URL Card 2" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-pic-button-text3" mktoName="Button Text Card 3" default="Read More" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-pic-button-link3" mktoName="Button URL Card 3" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Cards 3-Across Text Variables -->
+	<meta class="mktoList" id="cards-3-across-text-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="0" mktomodulescope="true">
+	<meta class="mktoList" id="cards-3-across-text-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-text-cta-text1" mktoName="CTA Text Card 1" default="Our Story" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-text-cta-link1" mktoName="CTA URL Card 1" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-text-cta-text2" mktoName="CTA Text Card 2" default="Explore Products" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-text-cta-link2" mktoName="CTA URL Card 2" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-text-cta-text3" mktoName="CTA Text Card 3" default="Explore SiC" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-text-cta-link3" mktoName="CTA URL Card 3" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Cards 3-Across Icon Variables -->
+	<meta class="mktoList" id="cards-3-across-icon-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="0" mktomodulescope="true">
+	<meta class="mktoList" id="cards-3-across-icon-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="cards-3-across-icon-image1" mktoName="Icon Card 1" values="aerospace,automotive,buildings,cloud,industrial,infrastructure,medical" default="automotive" mktomodulescope="true">
+	<meta class="mktoList" id="cards-3-across-icon-image2" mktoName="Icon Card 2" values="aerospace,automotive,buildings,cloud,industrial,infrastructure,medical" default="infrastructure" mktomodulescope="true">
+	<meta class="mktoList" id="cards-3-across-icon-image3" mktoName="Icon Card 3" values="aerospace,automotive,buildings,cloud,industrial,infrastructure,medical" default="industrial" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-icon-button-text1" mktoName="Button Text Card 1" default="Explore Solutions" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-icon-button-link1" mktoName="Button URL Card 1" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-icon-button-text2" mktoName="Button Text Card 2" default="Explore Solutions" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-icon-button-link2" mktoName="Button URL Card 2" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-icon-button-text3" mktoName="Button Text Card 3" default="Explore Solutions" mktomodulescope="true">
+	<meta class="mktoString" id="cards-3-across-icon-button-link3" mktoName="Button URL Card 3" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Cards 2-Across Icon Variables -->
+	<meta class="mktoList" id="cards-2-across-icon-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="0" mktomodulescope="true">
+	<meta class="mktoList" id="cards-2-across-icon-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="cards-2-across-icon-image1" mktoName="Icon Card 1" values="aerospace,automotive,buildings,cloud,industrial,infrastructure,medical" default="buildings" mktomodulescope="true">
+	<meta class="mktoList" id="cards-2-across-icon-image2" mktoName="Icon Card 2" values="aerospace,automotive,buildings,cloud,industrial,infrastructure,medical" default="cloud" mktomodulescope="true">
+	<meta class="mktoString" id="cards-2-across-icon-button-text1" mktoName="Button Text Card 1" default="Explore Solutions" mktomodulescope="true">
+	<meta class="mktoString" id="cards-2-across-icon-button-link1" mktoName="Button URL Card 1" default="https://www.onsemi.com/" mktomodulescope="true">
+	<meta class="mktoString" id="cards-2-across-icon-button-text2" mktoName="Button Text Card 2" default="Explore Solutions" mktomodulescope="true">
+	<meta class="mktoString" id="cards-2-across-icon-button-link2" mktoName="Button URL Card 2" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Cards 1-Across Icon Variables -->
+	<meta class="mktoList" id="cards-1-across-icon-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="0" mktomodulescope="true">
+	<meta class="mktoList" id="cards-1-across-icon-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="cards-1-across-icon-image1" mktoName="Icon Card 1" values="aerospace,automotive,buildings,cloud,industrial,infrastructure,medical" default="aerospace" mktomodulescope="true">
+	<meta class="mktoString" id="cards-1-across-icon-button-text1" mktoName="Button Text Card 1" default="Explore Solutions" mktomodulescope="true">
+	<meta class="mktoString" id="cards-1-across-icon-button-link1" mktoName="Button URL Card 1" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Complex Pic Right Variables -->
+	<meta class="mktoList" id="complex-pic-right-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="complex-pic-right-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoString" id="complex-pic-right-button-text" mktoName="Button Text" default="Products" mktomodulescope="true">
+	<meta class="mktoString" id="complex-pic-right-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Complex Pic Left Variables -->
+	<meta class="mktoList" id="complex-pic-left-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="complex-pic-left-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoString" id="complex-pic-left-button-text" mktoName="Button Text" default="Simulate Now" mktomodulescope="true">
+	<meta class="mktoString" id="complex-pic-left-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Complex Small Pic Right Variables -->
+	<meta class="mktoList" id="complex-small-pic-right-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="complex-small-pic-right-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoString" id="complex-small-pic-right-button-text" mktoName="Button Text" default="Read More" mktomodulescope="true">
+	<meta class="mktoString" id="complex-small-pic-right-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Complex Small Pic Left Variables -->
+	<meta class="mktoList" id="complex-small-pic-left-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoList" id="complex-small-pic-left-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="30" mktomodulescope="true">
+	<meta class="mktoString" id="complex-small-pic-left-button-text" mktoName="Button Text" default="Read More" mktomodulescope="true">
+	<meta class="mktoString" id="complex-small-pic-left-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+	<!-- Simple Text Variables -->
+	<meta class="mktoList" id="simple-text-padding-top" mktoName="Padding Top" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoList" id="simple-text-padding-bottom" mktoName="Padding Bottom" values="0,10,20,30,40,50" default="50" mktomodulescope="true">
+	<meta class="mktoString" id="simple-text-button-text" mktoName="Button Text" default="Learn More" mktomodulescope="true">
+	<meta class="mktoString" id="simple-text-button-link" mktoName="Button URL" default="https://www.onsemi.com/" mktomodulescope="true">
+	
+
+	
+    <title>Onsemi</title>
+	
+	
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	<!--[if mso]>
+	<style type="text/css">
+	body, table, td, h1, p, div {font-family: Arial, Helvetica, sans-serif !important;}
+	</style>
+	<![endif]-->
+	
+
+	<style type="text/css">
+		
+		@font-face {
+		font-family: Arial;
+		src: url('https://go.onsemi.com/rs/767-FAW-709/images/arial.ttf');
+		font-weight: normal;
+		font-style: normal;
+		}
+		@font-face {
+		font-family: Arial;
+		src: url('https://go.onsemi.com/rs/767-FAW-709/images/arialbd.ttf');
+		font-weight: bold;
+		font-style: normal;
+		}
+		@font-face {
+		font-family: Arial;
+		src: url('https://go.onsemi.com/rs/767-FAW-709/images/ariali.ttf');
+		font-weight: normal;
+		font-style: italic;
+		}
+		@font-face {
+		font-family: Arial;
+		src: url('https://go.onsemi.com/rs/767-FAW-709/images/arialbi.ttf');
+		font-weight: bold;
+		font-style: italic;
+		}
+		
+		.ExternalClass {
+      	width: 100%;
+    	}
+    	.ExternalClass,
+    	.ExternalClass p,
+    	.ExternalClass span,
+    	.ExternalClass font,
+    	.ExternalClass td,
+    	.ExternalClass div {
+      	line-height: 100%;
+    	}
+		
+		body { padding: 0px !important; margin: 0px !important; display: block !important; min-width: 100% !important; width: 100% !important; background: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: normal; -webkit-text-size-adjust:none; }
+     	tr { font-size: 0px; line-height: 0px; border-collapse: collapse; }
+		a { color: #2A78B8; text-decoration: none; }
+		p { padding: 0px 0px 0px 0px !important; margin: 0px !important; }
+		h1, h2, h3, h4 { padding: 0px 0px 0px 0px !important; margin: 0px !important; }
+		img { -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		ul, ol { margin-top: 0px; margin-bottom: 0px; margin-left: 15px; }
+		b, strong { line-height: 1em; }
+		.mcnPreviewText { display: none !important; }
+		a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+				
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			u + .body .gwfw { width:100% !important; width:100vw !important; }
+
+			.m-shell { width: 100% !important; min-width: 100% !important; }
+			
+			.m-center { text-align: center !important; float: none !important; clear: both !important; margin: 0 auto !important; }
+			.m-left { text-align: left !important; float: none !important; clear: both !important; margin: 0 auto 0 0 !important; }
+			.m-right { text-align: right !important; float: none !important; clear: both !important; margin: 0 0 0 auto !important; }
+			
+			.td { width: 100% !important; min-width: 100% !important; }
+			.bg { height: auto !important; -webkit-background-size: cover !important; background-size: cover !important; }
+
+			.m-pt-0 { padding-top: 0px !important; }
+			.m-pt-10 { padding-top: 10px !important; }
+			.m-pt-20 { padding-top: 20px !important; }
+			.m-pt-25 { padding-top: 25px !important; }
+			.m-pt-30 { padding-top: 30px !important; }
+			.m-pt-40 { padding-top: 40px !important; }
+			.m-pt-50 { padding-top: 50px !important; }
+			.m-pb-0 { padding-bottom: 0px !important; }
+			.m-pb-10 { padding-bottom: 10px !important; }
+			.m-pb-20 { padding-bottom: 20px !important; }
+			.m-pb-25 { padding-bottom: 25px !important; }
+			.m-pb-30 { padding-bottom: 30px !important; }
+			.m-pb-40 { padding-bottom: 40px !important; }
+			.m-pb-50 { padding-bottom: 50px !important; }
+			.m-ptb-0 { padding-top: 0px !important; padding-bottom: 0px !important; }
+			.m-ptb-10 { padding-top: 10px !important; padding-bottom: 10px !important; }
+			.m-ptb-20 { padding-top: 20px !important; padding-bottom: 20px !important; }
+			.m-ptb-25 { padding-top: 25px !important; padding-bottom: 25px !important; }
+			.m-ptb-30 { padding-top: 30px !important; padding-bottom: 30px !important; }
+			.m-ptb-40 { padding-top: 40px !important; padding-bottom: 40px !important; }
+			.m-ptb-50 { padding-top: 50px !important; padding-bottom: 50px !important; }
+			.m-plr-0 { padding-left: 0px !important; padding-right: 0px !important; }
+			.m-plr-10 { padding-left: 10px !important; padding-right: 10px !important; }
+			.m-plr-20 { padding-left: 20px !important; padding-right: 20px !important; }
+			.m-plr-30 { padding-left: 30px !important; padding-right: 30px !important; }
+			.m-plr-40 { padding-left: 40px !important; padding-right: 40px !important; }
+			.m-plr-50 { padding-left: 50px !important; padding-right: 50px !important; }
+
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+			.m-height { height: auto !important; }
+			.m-block { display: block !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+			.column,
+			.column-top,
+			.column-dir,
+			.column-bottom,
+			.column-dir-top,
+			.column-dir-bottom { float: left !important; width: 100% !important; display: block !important; }
+			.column-top { margin-top: 0 !important; }
+			
+			.m-lr-padding-25 { padding-left: 25px !important; padding-right: 25px !important; }
+			.m-tb-padding-10 { padding-top: 10px !important; padding-bottom: 10px !important; }
+			.m-tb-padding-20 { padding-top: 20px !important; padding-bottom: 20px !important; }
+			.m-tb-padding-30 { padding-top: 30px !important; padding-bottom: 30px !important; }
+			.m-tb-padding-40 { padding-top: 40px !important; padding-bottom: 40px !important; }
+			.m-tb-padding-50 { padding-top: 50px !important; padding-bottom: 50px !important; }
+			.m-tb-padding-60 { padding-top: 60px !important; padding-bottom: 60px !important; }
+		}
+	</style>
+	
+</head>
+<body class="body" style="padding:0 !important; margin:0 !important; display:block !important; min-width: 100% !important; width: 100% !important; background: #F5F5F5; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 22px; font-weight: normal; -webkit-text-size-adjust:none;">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#F5F5F5" class="gwfw" role="presentation">
+<tr>
+<td align="center" valign="top">
+	
+<!-- 1000-width Shell -->
+<table width="1000" border="0" cellspacing="0" cellpadding="0" class="m-shell" bgcolor="#FFFFFF" role="presentation">
+<tr>
+<td class="td" style="width: 1000px; min-width: 1000px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+
+<!-- START Module Container -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mktoContainer" id="mkto-container" role="presentation">
+		
+	
+	<!-- START LOGO HEADER MODULE -->
+	<tr class="mktoModule" id="marketoHeaderModule" mktoName="Header">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+	<tr>
+	<td class="m-lr-padding-25" style="padding: 50px 60px 50px 60px; background-color: #FFFFFF;">
+
+	<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px 0px 6px 0px; text-align: center;"><img width="96" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${header-icon}.png" alt="onsemi" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 96px;"></td>
+	</tr>
+	</table>
+	<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 30px; line-height: 36px; font-weight: bold; text-align: center; padding: 0px 0px 6px 0px;"><div class="mktoText" id="header-title-text" mktoname="Header Title Text" style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 30px; line-height: 36px; font-weight: bold; text-align: center;">Welcome!</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: normal; text-align: center; padding: 0px 0px 0px 0px;"><div class="mktoText" id="header-text" mktoname="Header Text" style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: normal; text-align: center;">Thank you for signing up to the <b>onsemi</b> newsletter.</div></td>
+	</tr>
+	</table>
+
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- END LOGO HEADER MODULE -->
+	
+	
+	<!-- START HEADER IMAGE MODULE -->
+	<tr class="mktoModule" id="marketoHeaderImageModule" mktoName="Header Image">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+	<tr>
+	<td style="padding: 0px; background-color: #FFFFFF;">
+		
+	<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="fluid-img" style="font-size: 0pt; line-height: 0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/header-shadow.png" width="1000" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; width: 1000px; margin: 0px auto; float: none;" alt="shadow" /></td>
+	</tr>
+	<tr>
+	<td class="fluid-img" style="font-size: 0pt; line-height: 0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/header-diagram-${header-image}.png" width=1000" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; width: 1000px; margin: 0px auto; float: none;" alt="onsemi" /></td>
+	</tr>
+	</table>
+		
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- END HEADER IMAGE MODULE -->
+	
+	
+	<!-- START HERO PIC LEFT MODULE -->
+	<tr class="mktoModule" id="marketoHeroPicLeftModule" mktoName="Hero Pic Left">
+	<td bgcolor="#1D3546">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#1D3546" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-tb-padding-60" style="padding: ${hero-pic-left-padding-top}px 60px ${hero-pic-left-padding-bottom}px 60px;" bgcolor="#1D3546">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<th class="column-top" valign="top" width="430" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="fluid-img" style="border-radius: 12px; overflow: hidden; font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="hero-pic" mktoname="Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/hero-ECS640A.png" width="430" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 430px; height: auto; float: none;" alt="ecoSpin" /></div></td>
+	</tr>
+	</table>
+	</th>
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="34"></th>
+	<th class="column-top" style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="m-pt-30" style="color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; padding: 0px 0px 0px 0px;"><div class="mktoText" id="hero-pic-pre-header" mktoname="Hero Pre-Header" style="margin: 0; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; word-wrap: normal;">ecoSpin&trade; Motor Controllers</div></td>
+	</tr>
+	<tr>
+	<td style="color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="hero-pic-header" mktoname="Hero Header" style="margin: 0; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Meet the ECS640A, a configurable three-phase brushless DC motor controller designed for high-voltage operation.</div></td>
+	</tr>
+	<tr>
+	<td style="color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="hero-pic-paragraph" mktoname="Hero Paragraph" style="margin: 0; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left; word-wrap: normal;">With an embedded gate driver and a microcontroller engine, ecoSpin BLDC motor control solutions provide reliable, scalable operation up to 1000 V.</div></td>
+	</tr>
+	<tr>
+	<td style="padding: 20px 0px 0px 0px;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${hero-pic-left-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${hero-pic-left-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</th>
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END HERO PIC LEFT MODULE -->
+	
+	
+	<!-- START HERO NO PIC MODULE -->
+	<tr class="mktoModule" id="marketoHeroNoPicModule" mktoName="Hero No Pic">
+	<td bgcolor="#1D3546">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#1D3546" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25" style="padding: ${hero-no-pic-padding-top}px 60px ${hero-no-pic-padding-bottom}px 60px;" bgcolor="#1D3546">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 0px 0px 0px 0px;"><div class="mktoText" id="hero-no-pic-header" mktoname="Hero Header" style="margin: 0; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Set Your Interests With Us</div></td>
+	</tr>
+	<tr>
+	<td style="color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="hero-no-pic-paragraph" mktoname="Hero Paragraph" style="margin: 0; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left; word-wrap: normal;">Let us know which solutions you're interested in to receive relevant content for your designs - saving you time, energy and a cluttered inbox.</div></td>
+	</tr>
+	<tr>
+	<td style="padding: 20px 0px 0px 0px;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${hero-no-pic-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${hero-no-pic-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- END HERO NO PIC MODULE -->
+	
+	
+	<!-- START CARDS HEADER 1 MODULE -->
+	<tr class="mktoModule" id="marketoCardsHeader1Module" mktoName="Cards Header 1">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25" style="padding: ${cards-header1-padding-top}px 60px ${cards-header1-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 0px 0px 0px 0px;"><div class="mktoText" id="cards-header1" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Discover More</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="cards-paragraph1" mktoname="Sub-Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: normal; text-align: left; word-wrap: normal;">Explore other related reports and recognitions.</div></td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS HEADER 1 MODULE -->
+	
+	
+	<!-- START CARDS HEADER 2 MODULE -->
+	<tr class="mktoModule" id="marketoCardsHeader2Module" mktoName="Cards Header 2">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25" style="padding: ${cards-header2-padding-top}px 60px ${cards-header2-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 0px 0px 0px 0px;"><div class="mktoText" id="cards-header2" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Our Top Solutions</div></td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS HEADER 2 MODULE -->
+	
+	
+	<!-- START CARDS 3-ACROSS PIC MODULE -->
+	<tr class="mktoModule" id="marketoCardsThreeAcrossPicModule" mktoName="Cards 3-Across Pic">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-ptb-0" style="padding: ${cards-3-across-pic-padding-top}px 60px ${cards-3-across-pic-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	
+	<!-- Card 1 -->
+	<th class="column-top m-ptb-25" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="cards-3-across-pic-pic1" mktoname="1st Card Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/card-pic1.png" width="280" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 280px; height: auto; float: none;" alt="card 1" /></div></td>
+			</tr>
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; text-align: left; padding: 20px 16px 0px 16px;"><div class="mktoText" id="cards-3-across-pic-header1" mktoname="1st Card Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; text-align: left; word-wrap: normal;">2020 CSR Report &amp;<br>GRI Index</div></td>
+			</tr>
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; padding: 6px 16px 20px 16px;"><div class="mktoText" id="cards-3-across-pic-paragraph1" mktoname="1st Card Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; word-wrap: normal;">Look back at last year's Corporate Social Responsibility report and the foundations laid for our success in 2021.</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 12px 16px; border-top: 1px solid #DCE2E8;">
+				<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-3-across-pic-button-link1}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-3-across-pic-button-text1}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 2 -->
+	<th class="column-top m-ptb-25" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="cards-3-across-pic-pic2" mktoname="2nd Card Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/card-pic2.png" width="280" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 280px; height: auto; float: none;" alt="card 2" /></div></td>
+			</tr>
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; text-align: left; padding: 20px 16px 0px 16px;"><div class="mktoText" id="cards-3-across-pic-header2" mktoname="2nd Card Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; text-align: left; word-wrap: normal;">Communication on<br>Progress (COP)</div></td>
+			</tr>
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; padding: 6px 16px 20px 16px;"><div class="mktoText" id="cards-3-across-pic-paragraph2" mktoname="2nd Card Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; word-wrap: normal;">Our COP, submitted to the United Nations Global Compact, outlines our alignment with its ten principles, focused on human rights, labor, environment and anti-corruption.</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 12px 16px; border-top: 1px solid #DCE2E8;">
+				<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-3-across-pic-button-link2}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-3-across-pic-button-text2}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 3 -->
+	<th class="column-top m-ptb-25" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="cards-3-across-pic-pic3" mktoname="3rd Card Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/card-pic3.png" width="280" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 280px; height: auto; float: none;" alt="card 3" /></div></td>
+			</tr>
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; text-align: left; padding: 20px 16px 0px 16px;"><div class="mktoText" id="cards-3-across-pic-header3" mktoname="3rd Card Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; text-align: left; word-wrap: normal;">Recognition</div></td>
+			</tr>
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; padding: 6px 16px 20px 16px;"><div class="mktoText" id="cards-3-across-pic-paragraph3" mktoname="3rd Card Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; word-wrap: normal;"><b>onsemi</b> has been recognized among the world's leading companies for sustainability and social and ethical responsibility.</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 12px 16px; border-top: 1px solid #DCE2E8;">
+				<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-3-across-pic-button-link3}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-3-across-pic-button-text3}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+		
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS 3-ACROSS PIC MODULE -->
+	
+	
+	<!-- START CARDS 3-ACROSS TEXT MODULE -->
+	<tr class="mktoModule" id="marketoCardsThreeAcrossTextModule" mktoName="Cards 3-Across Text">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-ptb-20" style="padding: ${cards-3-across-text-padding-top}px 60px ${cards-3-across-text-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	
+	<!-- Card 1 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden; padding: 18px 16px 18px 16px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px; font-weight: bold; text-align: left; padding: 0px;"><div class="mktoText" id="cards-3-across-text-left1" mktoname="1st Card Left Text" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px; font-weight: bold; text-align: left; word-wrap: normal;">About the<br>Company</div></td>
+			<td style="color: #2A78B8; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: right; padding: 0px;"><a href="${cards-3-across-text-cta-link1}" style="font-size: 12px; line-height: 18px; font-weight: bold; text-decoration: none; color: #2A78B8;" target="_blank">${cards-3-across-text-cta-text1}</a></td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 2 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden; padding: 18px 16px 18px 16px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px; font-weight: bold; text-align: left; padding: 0px;"><div class="mktoText" id="cards-3-across-text-left2" mktoname="2nd Card Left Text" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px; font-weight: bold; text-align: left; word-wrap: normal;">Product<br>Portfolio</div></td>
+			<td style="color: #2A78B8; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: right; padding: 0px;"><a href="${cards-3-across-text-cta-link2}" style="font-size: 12px; line-height: 18px; font-weight: bold; text-decoration: none; color: #2A78B8;" target="_blank">${cards-3-across-text-cta-text2}</a></td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 3 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden; padding: 18px 16px 18px 16px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px; font-weight: bold; text-align: left; padding: 0px;"><div class="mktoText" id="cards-3-across-text-left3" mktoname="3rd Card Left Text" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px; font-weight: bold; text-align: left; word-wrap: normal;">Silicon<br>Carbide (SiC)</div></td>
+			<td style="color: #2A78B8; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: right; padding: 0px;"><a href="${cards-3-across-text-cta-link3}" style="font-size: 12px; line-height: 18px; font-weight: bold; text-decoration: none; color: #2A78B8;" target="_blank">${cards-3-across-text-cta-text3}</a></td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+		
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS 3-ACROSS TEXT MODULE -->
+	
+	
+	<!-- START CARDS 3-ACROSS ICON MODULE -->
+	<tr class="mktoModule" id="marketoCardsThreeAcrossIconModule" mktoName="Cards 3-Across Icon">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-ptb-0" style="padding: ${cards-3-across-icon-padding-top}px 60px ${cards-3-across-icon-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	
+	<!-- Card 1 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="padding: 18px 16px 0px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="font-size:0pt; line-height:0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${cards-3-across-icon-image1}.png" width="56" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 56px; height: auto; float: none;" alt="icon 1" /></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			<tr>
+			<td style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; padding: 10px 16px 0px 16px;"><div class="mktoText" id="cards-3-across-icon-text1" mktoname="1st Card Text" style="margin: 0; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; word-wrap: normal;">Automotive<br>Solutions</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 20px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #1D3546; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-3-across-icon-button-link1}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-3-across-icon-button-text1}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 2 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="padding: 18px 16px 0px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="font-size:0pt; line-height:0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${cards-3-across-icon-image2}.png" width="56" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 56px; height: auto; float: none;" alt="icon 1" /></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			<tr>
+			<td style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; padding: 10px 16px 0px 16px;"><div class="mktoText" id="cards-3-across-icon-text2" mktoname="2nd Card Text" style="margin: 0; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; word-wrap: normal;">Energy<br>Infrastructure</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 20px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #1D3546; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-3-across-icon-button-link2}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-3-across-icon-button-text2}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 3 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="padding: 18px 16px 0px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="font-size:0pt; line-height:0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${cards-3-across-icon-image3}.png" width="56" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 56px; height: auto; float: none;" alt="icon 1" /></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			<tr>
+			<td style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; padding: 10px 16px 0px 16px;"><div class="mktoText" id="cards-3-across-icon-text3" mktoname="3rd Card Text" style="margin: 0; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; word-wrap: normal;">Industrial<br>Automation</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 20px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #1D3546; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-3-across-icon-button-link3}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-3-across-icon-button-text3}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+		
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS 3-ACROSS ICON MODULE -->
+	
+	
+	<!-- START CARDS 2-ACROSS ICON MODULE -->
+	<tr class="mktoModule" id="marketoCardsTwoAcrossIconModule" mktoName="Cards 2-Across Icon">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-ptb-0" style="padding: ${cards-2-across-icon-padding-top}px 60px ${cards-2-across-icon-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	
+	<!-- Card 1 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="padding: 18px 16px 0px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="font-size:0pt; line-height:0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${cards-2-across-icon-image1}.png" width="56" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 56px; height: auto; float: none;" alt="icon 1" /></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			<tr>
+			<td style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; padding: 10px 16px 0px 16px;"><div class="mktoText" id="cards-2-across-icon-text1" mktoname="1st Card Text" style="margin: 0; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; word-wrap: normal;">Smart Buildings &amp; Cities</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 20px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #1D3546; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-2-across-icon-button-link1}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-2-across-icon-button-text1}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+		
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="20"></th>
+	
+	<!-- Card 2 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="padding: 18px 16px 0px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="font-size:0pt; line-height:0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${cards-2-across-icon-image2}.png" width="56" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 56px; height: auto; float: none;" alt="icon 1" /></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			<tr>
+			<td style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; padding: 10px 16px 0px 16px;"><div class="mktoText" id="cards-2-across-icon-text2" mktoname="2nd Card Text" style="margin: 0; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; word-wrap: normal;">5G &amp; Cloud Power</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 20px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #1D3546; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-2-across-icon-button-link2}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-2-across-icon-button-text2}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+			
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS 2-ACROSS ICON MODULE -->
+	
+	
+	<!-- START CARDS 1-ACROSS ICON MODULE -->
+	<tr class="mktoModule" id="marketoCardsOneAcrossIconModule" mktoName="Cards 1-Across Icon">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-ptb-0" style="padding: ${cards-1-across-icon-padding-top}px 60px ${cards-1-across-icon-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	
+	<!-- Card 1 -->
+	<th class="column-top m-ptb-20" valign="top" width="280" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td valign="top" bgcolor="#FCFCFD" style="border: 1px solid #DCE2E8; border-radius: 12px; overflow: hidden;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+			<tr>
+			<td style="padding: 18px 16px 0px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="font-size:0pt; line-height:0pt; text-align: center;"><img src="https://go.onsemi.com/rs/767-FAW-709/images/icon-${cards-1-across-icon-image1}.png" width="56" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 56px; height: auto; float: none;" alt="icon 1" /></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			<tr>
+			<td style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; padding: 10px 16px 0px 16px;"><div class="mktoText" id="cards-1-across-icon-text1" mktoname="1st Card Text" style="margin: 0; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; font-weight: bold; text-align: center; word-wrap: normal;">Aerospace &amp; Defense</div></td>
+			</tr>
+			<tr>
+			<td height="28" style="padding: 12px 16px 20px 16px;">
+				<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+				<tr>
+				<td style="background-color: #1D3546; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${cards-1-across-icon-button-link1}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${cards-1-across-icon-button-text1}</a></td>
+				</tr>
+				</table>
+			</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</th>
+			
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END CARDS 1-ACROSS ICON MODULE -->
+	
+	
+	<!-- START COMPLEX PIC RIGHT MODULE -->
+	<tr class="mktoModule" id="marketoComplexPicRightModule" mktoName="Complex Pic Right">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-tb-padding-30" dir="rtl" style="padding: ${complex-pic-right-padding-top}px 60px ${complex-pic-right-padding-bottom}px 60px; direction: rtl;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<th class="column-top" valign="top" width="430" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="fluid-img m-pb-20" style="border-radius: 12px; overflow: hidden; font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="complex-pic-right-pic" mktoname="Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/complex-pic1.png" width="430" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 430px; height: auto; float: none;" alt="onsemi" /></div></td>
+	</tr>
+	</table>
+	</th>
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="34"></th>
+	<th class="column-top" dir="ltr" style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;  direction: ltr;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-pic-right-header" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Highest Power Density - New Half-bridge EliteSiC PIMs</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-pic-right-paragraph" mktoname="Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left; word-wrap: normal;">Find out two new industrial grade M3S based half-bridge PIMs with industry leading Rds(on) in standard F2 package footprints. Designers can achieve superior performance without the need of expensive Aluminum Nitride (AlN) or direct bond copper (DBC) substrates.</div></td>
+	</tr>
+	<tr>
+	<td dir="ltr" style="padding: 20px 0px 0px 0px; direction: ltr;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${complex-pic-right-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${complex-pic-right-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</th>
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END COMPLEX PIC RIGHT MODULE -->
+	
+	
+	<!-- START COMPLEX PIC LEFT MODULE -->
+	<tr class="mktoModule" id="marketoComplexPicLeftModule" mktoName="Complex Pic Left">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-tb-padding-30" style="padding: ${complex-pic-left-padding-top}px 60px ${complex-pic-left-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<th class="column-top" valign="top" width="430" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="fluid-img m-pb-20" style="border-radius: 12px; overflow: hidden; font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="complex-pic-left-pic" mktoname="Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/complex-pic2.png" width="430" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 430px; height: auto; float: none;" alt="onsemi" /></div></td>
+	</tr>
+	</table>
+	</th>
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="34"></th>
+	<th class="column-top" style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-pic-left-header" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Novel SiC Simulation Reduces Development Time</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-pic-left-paragraph" mktoname="Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left; word-wrap: normal;">Use Elite Power Simulator to get an accurate representation of how your circuit will work using onsemi's EliteSiC family of products. The tool saves you time by providing state-of-the-art, accurate simulation data.</div></td>
+	</tr>
+	<tr>
+	<td style="padding: 20px 0px 0px 0px;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${complex-pic-left-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${complex-pic-left-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</th>
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END COMPLEX PIC LEFT MODULE -->
+	
+	
+	<!-- START COMPLEX SMALL PIC RIGHT MODULE -->
+	<tr class="mktoModule" id="marketoComplexSmallPicRightModule" mktoName="Complex Small Pic Right">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-tb-padding-30" dir="rtl" style="padding: ${complex-small-pic-right-padding-top}px 60px ${complex-small-pic-right-padding-bottom}px 60px; direction: rtl;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<th class="column-top" valign="top" width="370" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="fluid-img m-pb-20" style="border-radius: 12px; overflow: hidden; font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="complex-small-pic-right-pic" mktoname="Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/complex-pic4.png" width="370" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 370px; height: auto; float: none;" alt="onsemi" /></div></td>
+	</tr>
+	</table>
+	</th>
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="60"></th>
+	<th class="column-top" dir="ltr" style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;  direction: ltr;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-small-pic-right-header" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Giving Now Program</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-small-pic-right-paragraph" mktoname="Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left; word-wrap: normal;">Giving Now program drives positivity forward by creating meaningful change for our planet and every community we live and work in around the globe.</div></td>
+	</tr>
+	<tr>
+	<td dir="ltr" style="padding: 20px 0px 0px 0px; direction: ltr;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${complex-small-pic-right-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${complex-small-pic-right-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</th>
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END COMPLEX SMALL PIC RIGHT MODULE -->
+	
+	
+	<!-- START COMPLEX SMALL PIC LEFT MODULE -->
+	<tr class="mktoModule" id="marketoComplexSmallPicLeftModule" mktoName="Complex Small Pic Left">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25 m-tb-padding-30" style="padding: ${complex-small-pic-left-padding-top}px 60px ${complex-small-pic-left-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<th class="column-top" valign="top" width="370" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td class="fluid-img m-pb-20" style="border-radius: 12px; overflow: hidden; font-size:0pt; line-height:0pt; text-align:left;"><div class="mktoImg" id="complex-small-pic-left-pic" mktoname="Image"><img src="https://go.onsemi.com/rs/767-FAW-709/images/complex-pic4.png" width="370" border="0" style="-ms-interpolation-mode: bicubic; margin: 0px; border: none; clear: both; display: block; width: 370px; height: auto; float: none;" alt="onsemi" /></div></td>
+	</tr>
+	</table>
+	</th>
+	<th style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;" class="column" width="60"></th>
+	<th class="column-top" style="font-size: 0pt; line-height: 0pt; padding: 0; margin: 0; font-weight: normal;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-small-pic-left-header" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">Giving Now Program</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="complex-small-pic-left-paragraph" mktoname="Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left; word-wrap: normal;">Giving Now program drives positivity forward by creating meaningful change for our planet and every community we live and work in around the globe.</div></td>
+	</tr>
+	<tr>
+	<td style="padding: 20px 0px 0px 0px;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${complex-small-pic-left-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${complex-small-pic-left-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</th>
+	</tr>
+	</table>
+	</td>
+	</tr>
+		
+	</table>
+	</td>
+	</tr>
+	<!-- END COMPLEX SMALL PIC LEFT MODULE -->
+	
+	
+	<!-- START SIMPLE TEXT MODULE -->
+	<tr class="mktoModule" id="marketoSimpleTextModule" mktoName="Simple Text">
+	<td bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" role="presentation">
+		
+	<tr>
+	<td class="m-lr-padding-25" style="padding: ${simple-text-padding-top}px 60px ${simple-text-padding-bottom}px 60px;" bgcolor="#FFFFFF">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; padding: 0px 0px 0px 0px;"><div class="mktoText" id="simple-text-header" mktoname="Header" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 30px; font-weight: bold; text-align: left; word-wrap: normal;">About Kempower</div></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: bold; text-align: left; padding: 6px 0px 0px 0px;"><div class="mktoText" id="simple-text-paragraph" mktoname="Paragraph" style="margin: 0; color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; font-weight: normal; text-align: left; word-wrap: normal;">Kempower designs and manufactures DC fast charging solutions for electric vehicles. They are a team of electric vehicle enthusiasts with a deep understanding of the charging market and hands-on mentality. Product development and production are rooted in Finland, with a majority of their materials and components sourced locally.</div></td>
+	</tr>
+	<tr>
+	<td style="padding: 20px 0px 0px 0px;">
+		<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+		<tr>
+		<td style="background-color: #FF7920; border-radius: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: normal; text-align: center; text-decoration: none; letter-spacing: .5px; padding: 8px 10px 8px 10px;"><a href="${simple-text-button-link}" style="font-size: 12px; line-height: 12px; font-weight: normal; text-decoration: none; letter-spacing: .5px; color: #FFFFFF;" target="_blank">${simple-text-button-text}</a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- END SIMPLE TEXT MODULE -->
+	
+	
+	
+	<!-- START FOOTER MODULE -->
+	<tr class="mktoModule" id="marketoFooterModule" mktoName="Footer">
+	<td bgcolor="#FCFCFD">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FCFCFD" role="presentation">
+	
+	<!-- Logo and social media -->
+	<tr>
+	<td class="m-lr-padding-25" style="padding: 50px 50px 34px 50px;" bgcolor="#FCFCFD">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+		
+	<!-- Start left -->	
+	<td class="column" style="font-size: 0px; line-height: 0px; padding:0; margin:0; font-weight: normal; vertical-align:top;">
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px;"><img width="140" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/onsemi-logo-footer.png" alt="Onsemi" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 140px;"></td>
+	</tr>
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: center; padding: 8px 0px 0px 0px;">5701 N Pima Rd, Scottsdale, Arizona 85250, USA</td>
+	</tr>
+	</table>
+	</td>
+	
+	<!-- Start right -->	
+	<td class="column" style="font-size: 0px; line-height: 0px; padding: 0px; margin: 0px; font-weight: normal;">
+	<table class="m-left m-pt-20" align="right" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	
+	<tr>
+	<td>
+		
+	<!-- Start Social Media Links -->
+	<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px 12px 0px 0px;">
+	<a href="https://www.linkedin.com/company/on-semiconductor" style="margin: 0; padding: 0;" target="_blank"><img width="20" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/sm-linkedin.png" alt="LinkedIn" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 20px;"></a></td>
+		
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px 12px 0px 0px;">
+	<a href="https://www.facebook.com/onsemi" style="margin: 0; padding: 0;" target="_blank"><img width="20" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/sm-facebook.png" alt="Facebook" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 20px;"></a></td>
+		
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px 12px 0px 0px;">
+	<a href="https://twitter.com/onsemi" style="margin: 0; padding: 0;" target="_blank"><img width="20" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/sm-twitter.png" alt="Twitter" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 20px;"></a></td>
+		
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px 30px 0px 0px;">
+	<a href="https://www.instagram.com/onsemi_official" style="margin: 0; padding: 0;" target="_blank"><img width="20" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/sm-instagram.png" alt="Instagram" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 20px;"></a></td>
+		
+	<td style="font-size: 0px; line-height: 0px; margin: 0px; padding: 0px 0px 0px 0px;">
+	<a href="https://www.onsemi.com/company/about-onsemi" style="margin: 0; padding: 0;" target="_blank"><img width="75" border="0" src="https://go.onsemi.com/rs/767-FAW-709/images/button-our-story.png" alt="Our Story" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; float: none; max-width: 75px;"></a></td>
+	</tr>
+	</table>
+	<!-- End Social Media Links -->
+
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	
+	</table>
+	</td>
+	</tr>
+		
+	<!-- Start Footer Details -->
+	<tr>
+	<td class="m-lr-padding-25" style="padding: 0px 50px 50px 50px;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+	<tr>
+	<td style="color: #212529; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; font-weight: normal; text-align: left; padding: 0px;">
+	You received this email because you are subscribed to marketing information from <b>onsemi</b>.<br>
+	Manage your <b><a href="https://www.onsemi.com/subscribe/update-your-email-preferences/" style="color: #2A78B8; text-decoration: none;" target="_blank">email preferences</a></b> or <b><a href="{{system.unsubscribeLink}}" style="color: #2A78B8; text-decoration: none;" target="_blank">unsubscribe</a></b> from receiving our marketing emails.
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<!-- End Footer Details -->
+	
+	</table>
+	</td>
+	</tr>
+	<!-- END FOOTER MODULE -->
+	
+	
+
+</table>
+<!-- END Module Container -->
+	
+</td>
+</tr>
+</table>
+<!-- END Shell -->
+
+</td>
+</tr>
+</table>
+	
+</body>
+</html>
